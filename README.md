@@ -14,7 +14,7 @@ Currently this shard only exists to be shared between [GTK4](https://github.com/
    ```yaml
    dependencies:
      harfbuzz:
-       github: hugopl/harfbuzz
+       github: hugopl/harfbuzz.cr
    ```
 
 2. Run `shards install`
