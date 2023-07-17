@@ -6,5 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Changes that change the generated API have a ⚠️.
 
+## [0.2.0] 2023-07-17
+### Fixed
+- Fixed compilation with Harfbuzz 8.0.1 by ignoring `hb_ot_layout_get_font_extents` and
+  `hb_ot_layout_get_font_extents2`.
+
+### Changed
+- GICrystal dependency bumped to >= 0.17.0.
+
 ## [0.1.0] 2023-03-10
-First release.
+- First release.

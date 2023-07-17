@@ -11,4 +11,6 @@ lib_ignore:
   - hb_ft_face_create_referenced
   - hb_ft_font_create
   - hb_ft_font_create_referenced
+  - hb_ot_layout_get_font_extents
+  - hb_ot_layout_get_font_extents2
 
