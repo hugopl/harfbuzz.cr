@@ -8,7 +8,7 @@ Changes that change the generated API have a ⚠️.
 
 ## [0.2.1] 2025-08-05
 ### Fixed
-- Fixed compilation with Harfbuzz 11.3.3 by ignoring `hb_ot_layout_lookup_collect_glyphs`.
+- Fixed compilation with Harfbuzz 11.3.3 by ignoring `hb_ot_layout_lookup_collect_glyphs`, thanks @City-busz (#1).
 
 ## [0.2.0] 2023-07-17
 ### Fixed
